@@ -1,0 +1,57 @@
+body {
+	background-color: white;
+	color: black;
+	font-family: helvetica;
+	font-size: 25px;
+}
+
+.container {
+margin: 0 auto;
+	margin-top: 70px;
+	text-align: left;
+	width: 900px;
+	
+
+}
+
+.illus img {
+		height: auto;
+	width: 90%;
+}
+
+.back{
+	position: absolute;
+	width:70px;
+	margin-left: 30px;
+	margin-top: 30px; 
+}
+
+.baniere {
+	width: 100%;
+	
+}
+
+@media screen and (min-width: 1200px) {
+
+  p {
+	top:144px;
+
+}
+
+
+
+
+.illus {
+	text-align: center;
+	margin-top: 80px;
+	letter-spacing: 40px;
+	margin-bottom: 
+
+}
+
+.illus img {
+	margin-bottom: 40px;
+
+}
+
+}

@@ -1,0 +1,45 @@
+body {
+	background-color: white;
+	color: black;
+	font-family: helvetica;
+	font-size: 25px;
+}
+
+.container {
+margin: 0 auto;
+	margin-top: 70px;
+	text-align: left;
+	width: 900px;
+	
+
+}
+
+.back{
+	position: absolute;
+	width:70px;
+	margin-left: 30px;
+	margin-top: 30px; 
+}
+
+.baniere {
+	width: 100%;
+	
+}
+
+.site {
+	width: 80%;
+	border: solid black 0.2px;
+
+}
+
+@media screen and (min-width: 1200px) {
+
+  p {
+	top:144px;
+
+}
+
+.site { 
+	width: 90%;
+
+}
